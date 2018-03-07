@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: d203d9802ed33c54fae9928c1a90bfc4
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PA_CargoAirCraftAirCraftBody
+    100004: PA_CargoAirCraftAirCraftBodyDecal
+    100006: PA_CargoAirCraftForwardLowerFinRight
+    100008: PA_CargoAirCraftPropellaInnerLeft
+    100010: PA_CargoAirCraftPropellaInnerRight
+    100012: PA_CargoAirCraftPropellaOuterLeft
+    100014: PA_CargoAirCraftPropellaOuterRight
+    100016: PA_CargoAirCraftRearFinLeft
+    100018: PA_CargoAirCraftRearFinRight
+    100020: PA_CargoAirCraftTailFin
+    100022: PA_CargoAirCraftWheelStruts
+    100024: PA_CargoAirCraftWheelTire
+    100026: popHarmAirCrafForwardLowerFinLeft
+    400000: //RootNode
+    400002: PA_CargoAirCraftAirCraftBody
+    400004: PA_CargoAirCraftAirCraftBodyDecal
+    400006: PA_CargoAirCraftForwardLowerFinRight
+    400008: PA_CargoAirCraftPropellaInnerLeft
+    400010: PA_CargoAirCraftPropellaInnerRight
+    400012: PA_CargoAirCraftPropellaOuterLeft
+    400014: PA_CargoAirCraftPropellaOuterRight
+    400016: PA_CargoAirCraftRearFinLeft
+    400018: PA_CargoAirCraftRearFinRight
+    400020: PA_CargoAirCraftTailFin
+    400022: PA_CargoAirCraftWheelStruts
+    400024: PA_CargoAirCraftWheelTire
+    400026: popHarmAirCrafForwardLowerFinLeft
+    2300000: PA_CargoAirCraftAirCraftBody
+    2300002: PA_CargoAirCraftAirCraftBodyDecal
+    2300004: PA_CargoAirCraftForwardLowerFinRight
+    2300006: PA_CargoAirCraftPropellaInnerLeft
+    2300008: PA_CargoAirCraftPropellaInnerRight
+    2300010: PA_CargoAirCraftPropellaOuterLeft
+    2300012: PA_CargoAirCraftPropellaOuterRight
+    2300014: PA_CargoAirCraftRearFinLeft
+    2300016: PA_CargoAirCraftRearFinRight
+    2300018: PA_CargoAirCraftTailFin
+    2300020: PA_CargoAirCraftWheelStruts
+    2300022: PA_CargoAirCraftWheelTire
+    2300024: popHarmAirCrafForwardLowerFinLeft
+    3300000: PA_CargoAirCraftAirCraftBody
+    3300002: PA_CargoAirCraftAirCraftBodyDecal
+    3300004: PA_CargoAirCraftForwardLowerFinRight
+    3300006: PA_CargoAirCraftPropellaInnerLeft
+    3300008: PA_CargoAirCraftPropellaInnerRight
+    3300010: PA_CargoAirCraftPropellaOuterLeft
+    3300012: PA_CargoAirCraftPropellaOuterRight
+    3300014: PA_CargoAirCraftRearFinLeft
+    3300016: PA_CargoAirCraftRearFinRight
+    3300018: PA_CargoAirCraftTailFin
+    3300020: PA_CargoAirCraftWheelStruts
+    3300022: PA_CargoAirCraftWheelTire
+    3300024: popHarmAirCrafForwardLowerFinLeft
+    4300000: PA_CargoAirCraftPropellaOuterLeft
+    4300002: PA_CargoAirCraftPropellaInnerRight
+    4300004: PA_CargoAirCraftPropellaOuterRight
+    4300006: PA_CargoAirCraftAirCraftBody
+    4300008: popHarmAirCrafForwardLowerFinLeft
+    4300010: PA_CargoAirCraftTailFin
+    4300012: PA_CargoAirCraftRearFinLeft
+    4300014: PA_CargoAirCraftForwardLowerFinRight
+    4300016: PA_CargoAirCraftRearFinRight
+    4300018: PA_CargoAirCraftPropellaInnerLeft
+    4300020: PA_CargoAirCraftWheelStruts
+    4300022: PA_CargoAirCraftWheelTire
+    4300024: PA_CargoAirCraftAirCraftBodyDecal
+    7400000: PA_CargoAircraftWheelsDownClip
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PA_CargoAircraftWheelsDownClip
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PA_CargoAirCraftAirCraftBody
+        weight: 1
+      - path: PA_CargoAirCraftAirCraftBody/PA_CargoAirCraftForwardLowerFinRight
+        weight: 1
+      - path: PA_CargoAirCraftAirCraftBody/PA_CargoAirCraftRearFinLeft
+        weight: 1
+      - path: PA_CargoAirCraftAirCraftBody/PA_CargoAirCraftRearFinRight
+        weight: 1
+      - path: PA_CargoAirCraftAirCraftBody/PA_CargoAirCraftTailFin
+        weight: 1
+      - path: PA_CargoAirCraftAirCraftBody/popHarmAirCrafForwardLowerFinLeft
+        weight: 1
+      - path: PA_CargoAirCraftAirCraftBodyDecal
+        weight: 1
+      - path: PA_CargoAirCraftPropellaInnerLeft
+        weight: 1
+      - path: PA_CargoAirCraftPropellaInnerRight
+        weight: 1
+      - path: PA_CargoAirCraftPropellaOuterLeft
+        weight: 1
+      - path: PA_CargoAirCraftPropellaOuterRight
+        weight: 1
+      - path: PA_CargoAirCraftWheelStruts
+        weight: 1
+      - path: PA_CargoAirCraftWheelStruts/PA_CargoAirCraftWheelTire
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
